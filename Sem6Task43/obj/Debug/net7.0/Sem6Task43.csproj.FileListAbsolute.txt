@@ -1,0 +1,15 @@
+F:\Учеба\GR3963\Gr3963-1\Sem6Task43\bin\Debug\net7.0\Sem6Task43.exe
+F:\Учеба\GR3963\Gr3963-1\Sem6Task43\bin\Debug\net7.0\Sem6Task43.deps.json
+F:\Учеба\GR3963\Gr3963-1\Sem6Task43\bin\Debug\net7.0\Sem6Task43.runtimeconfig.json
+F:\Учеба\GR3963\Gr3963-1\Sem6Task43\bin\Debug\net7.0\Sem6Task43.dll
+F:\Учеба\GR3963\Gr3963-1\Sem6Task43\bin\Debug\net7.0\Sem6Task43.pdb
+F:\Учеба\GR3963\Gr3963-1\Sem6Task43\obj\Debug\net7.0\Sem6Task43.csproj.AssemblyReference.cache
+F:\Учеба\GR3963\Gr3963-1\Sem6Task43\obj\Debug\net7.0\Sem6Task43.GeneratedMSBuildEditorConfig.editorconfig
+F:\Учеба\GR3963\Gr3963-1\Sem6Task43\obj\Debug\net7.0\Sem6Task43.AssemblyInfoInputs.cache
+F:\Учеба\GR3963\Gr3963-1\Sem6Task43\obj\Debug\net7.0\Sem6Task43.AssemblyInfo.cs
+F:\Учеба\GR3963\Gr3963-1\Sem6Task43\obj\Debug\net7.0\Sem6Task43.csproj.CoreCompileInputs.cache
+F:\Учеба\GR3963\Gr3963-1\Sem6Task43\obj\Debug\net7.0\Sem6Task43.dll
+F:\Учеба\GR3963\Gr3963-1\Sem6Task43\obj\Debug\net7.0\refint\Sem6Task43.dll
+F:\Учеба\GR3963\Gr3963-1\Sem6Task43\obj\Debug\net7.0\Sem6Task43.pdb
+F:\Учеба\GR3963\Gr3963-1\Sem6Task43\obj\Debug\net7.0\Sem6Task43.genruntimeconfig.cache
+F:\Учеба\GR3963\Gr3963-1\Sem6Task43\obj\Debug\net7.0\ref\Sem6Task43.dll
