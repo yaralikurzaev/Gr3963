@@ -1,0 +1,15 @@
+F:\Учеба\GR3963\Gr3963-1\Sem9Task64\bin\Debug\net7.0\Sem9Task64.exe
+F:\Учеба\GR3963\Gr3963-1\Sem9Task64\bin\Debug\net7.0\Sem9Task64.deps.json
+F:\Учеба\GR3963\Gr3963-1\Sem9Task64\bin\Debug\net7.0\Sem9Task64.runtimeconfig.json
+F:\Учеба\GR3963\Gr3963-1\Sem9Task64\bin\Debug\net7.0\Sem9Task64.dll
+F:\Учеба\GR3963\Gr3963-1\Sem9Task64\bin\Debug\net7.0\Sem9Task64.pdb
+F:\Учеба\GR3963\Gr3963-1\Sem9Task64\obj\Debug\net7.0\Sem9Task64.csproj.AssemblyReference.cache
+F:\Учеба\GR3963\Gr3963-1\Sem9Task64\obj\Debug\net7.0\Sem9Task64.GeneratedMSBuildEditorConfig.editorconfig
+F:\Учеба\GR3963\Gr3963-1\Sem9Task64\obj\Debug\net7.0\Sem9Task64.AssemblyInfoInputs.cache
+F:\Учеба\GR3963\Gr3963-1\Sem9Task64\obj\Debug\net7.0\Sem9Task64.AssemblyInfo.cs
+F:\Учеба\GR3963\Gr3963-1\Sem9Task64\obj\Debug\net7.0\Sem9Task64.csproj.CoreCompileInputs.cache
+F:\Учеба\GR3963\Gr3963-1\Sem9Task64\obj\Debug\net7.0\Sem9Task64.dll
+F:\Учеба\GR3963\Gr3963-1\Sem9Task64\obj\Debug\net7.0\refint\Sem9Task64.dll
+F:\Учеба\GR3963\Gr3963-1\Sem9Task64\obj\Debug\net7.0\Sem9Task64.pdb
+F:\Учеба\GR3963\Gr3963-1\Sem9Task64\obj\Debug\net7.0\Sem9Task64.genruntimeconfig.cache
+F:\Учеба\GR3963\Gr3963-1\Sem9Task64\obj\Debug\net7.0\ref\Sem9Task64.dll
